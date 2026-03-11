@@ -1,8 +1,4 @@
-Skeleton [GitHub Actions](https://code-maven.com/github-actions) for a Python project
+# GitHub Actions Workflow for Python
 
-
-
-Editable installs
-pip install -e .
-python setup.py develop
+For the full list of examples and explanations visit https://git.code-maven.com/
 
